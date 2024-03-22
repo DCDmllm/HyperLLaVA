@@ -6,7 +6,7 @@ The official repository of the paper [HyperLLaVA: Dynamic Visual and Language Ex
 
 ## 🎓 HyperLLaVA Overview
 
-Momentor is a Multimodal Large Language Model (MLLM) designed for effectively enhancing performance on downstream multimodal tasks. It is composed of a Visual Expert-Assisted Projector and a  Language Expert-integrated Tuning module. The architecture of the proposed HyperLLaVA is shown in the following figure.
+HyperLLaVA is a Multimodal Large Language Model (MLLM) designed for effectively enhancing performance on downstream multimodal tasks. It is composed of a Visual Expert-Assisted Projector and a  Language Expert-integrated Tuning module. The architecture of the proposed HyperLLaVA is shown in the following figure.
 
 <img src="framework.png"  width="90%">
 
