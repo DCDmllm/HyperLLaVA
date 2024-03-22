@@ -1,5 +1,7 @@
 # 📄 HyperLLaVA
+
 <h1 align = "center">
+      
 The official repository of the paper [HyperLLaVA: Dynamic Visual and Language Expert Tuning for Multimodal Large Language Models](https://arxiv.org/pdf/2403.13447.pdf).
 
 ## 🎓 HyperLLaVA Overview
