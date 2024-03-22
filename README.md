@@ -1,6 +1,6 @@
 # 📄 HyperLLaVA
 
-<h1 align = "center">
+
       
 The official repository of the paper [HyperLLaVA: Dynamic Visual and Language Expert Tuning for Multimodal Large Language Models](https://arxiv.org/pdf/2403.13447.pdf).
 
@@ -8,8 +8,10 @@ The official repository of the paper [HyperLLaVA: Dynamic Visual and Language Ex
 
 Momentor is a Multimodal Large Language Model (MLLM) designed for effectively enhancing performance on downstream multimodal tasks. It is composed of a Visual Expert-Assisted Projector and a  Language Expert-integrated Tuning module. The architecture of the proposed HyperLLaVA is shown in the following figure.
 
+<img src="framework.png"  width="90%">
+
 Code will be available soon. 
-</h1>
+
 
 
 ## 🤝 Referencing and Citing 
